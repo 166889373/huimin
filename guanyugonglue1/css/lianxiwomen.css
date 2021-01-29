@@ -1,0 +1,268 @@
+body{
+	background-color: #FFFFFF;
+}
+header{
+     width: 16rem;
+     box-sizing: border-box;
+     height:2.2rem;
+     background-color: #FFFFFF;
+     line-height:2.2rem;
+}
+ header .logo{
+    width:5.275rem;
+    height:1.55rem;
+    margin-left:5.05rem;
+}
+ header .cdl{
+     display: inline-block;
+     font-size:1rem;
+     margin-right: 0.475rem;
+     color:#0760E5;
+}
+
+.nav_cang {
+	width:16rem;
+	height:34.675rem;
+	background-color: #FFFFFF;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index: 5;
+	display: none;
+}
+.nav_cang .nav_top{
+	width:16rem;
+	height:2.2rem;
+	line-height: 2.2rem;
+	position: relative;
+}
+.nav_cang .nav_top .logo{
+	width:5.275rem;
+    height:1.55rem;
+    margin-left:5.05rem;
+}
+.nav_cang .nav_top .x{
+	 display: inline-block;
+     font-size: 1rem;
+     margin-right: 0.475rem;
+     color:#0760E5;
+}
+.nav_cang .nav_zhong{
+	width:16rem;
+    margin-top: 5.1rem;
+}
+.nav_cang .nav_zhong  li {
+	font-weight: bold;
+	margin-bottom:2rem;
+	text-align: center;
+}
+.nav_cang .nav_zhong  a {
+	color:#0760E5;
+	font-size:0.9rem;
+}
+.nav_cang .nav_xia{
+	width:7.6rem;
+	margin-left:4.5rem;
+}
+.nav_cang .nav_xia .phone{
+	font-size: 1.7rem;
+	color:#A0C1F3;
+}
+.nav_cang .nav_xia .h1{
+	font-size: 0.45rem;
+	color:#2879E7;
+	margin-left:2.225rem;
+}
+ .banner img{
+	width: 16rem;
+	height:7.725rem;
+}
+.contnet{
+	width:16rem;
+}
+.content1{
+	width:16rem;
+	height:1.75rem;
+}
+.content1 .fk{
+	width:3.55rem;
+	height:3.55rem;
+	background-color: #155EE6;
+	position: absolute;
+	top:9.1rem;left:0.45rem;
+}
+.content1 .fk .p1{
+	margin-left:0.5rem;
+	margin-top:0.6rem;
+	font-size: 0.65rem;
+	color:#FFFFFF;
+}
+.content1 .fk span{
+	font-size: 0.7rem;
+	margin:0.3rem;
+	color:#FFFFFF;
+}
+.content1 .fk h5{
+	font-size: 0.65rem;
+	margin-left: 0.4rem;
+	color:#FFFFFF;
+	font-weight: normal;
+	margin-top:0.35rem;
+}
+.content1 .jiantou{
+	margin-left: 4.65rem;
+	margin-right: 0.5rem;
+	float:left;
+}
+.content1 .p2{
+	margin-left: 5.675rem;
+	font-size:0.6rem;
+	margin-top:1.05rem;
+	line-height: 1.05rem;;
+}
+.content2 {
+    width:16rem;
+    height:3.85rem;
+}
+.content2 h6{
+    font-size: 0.65rem;
+    margin-left: 0.45rem;
+    margin-top: 1.075rem;
+}
+.content2 .p1{
+    font-size: 0.55rem;
+    margin-left: 0.45rem;
+    margin-top:0.55rem;
+    color:#919090;
+}
+.content2 .p2{
+    font-size: 0.55rem;
+    margin-left: 0.45rem;
+    line-height: 0.925rem;
+    color:#919090;
+}
+.content3 {
+	width:16rem;
+}
+.content3 h6{
+    font-size: 0.65rem;
+    margin-left: 0.45rem;
+}
+.content3 .p3{
+    font-size: 0.55rem;
+    margin-left: 0.45rem;
+    margin-top:0.6rem;
+    color:#919090;
+}
+.content3 .tu1{
+    width:15.1rem;
+    height:11.075rem;
+    margin-left: 0.45rem;
+    margin-top:0.8rem;
+}
+.content4 {
+	width:16rem;
+}
+.content4 .zheng{
+	width:1.9rem;
+	height:1.9rem;
+	background-color: #1259E6;
+	border-radius: 0.25rem;
+	margin-left:7.05rem;
+	transform: rotate(45deg);
+	margin-top:0.55rem;
+}
+.content4 .chang{
+	width:15.1rem;
+	height:4.2rem;
+	background-color: #1259E6;
+	margin-left:0.45rem;
+	margin-top:-1.7rem;
+	border-radius: 0.125rem;
+}
+.content4 .chang  h5{
+	font-size: 0.75rem;
+	padding-top:0.75rem;
+	color:#FFFFFF;
+	font-weight: normal;
+	margin-left: 0.5rem;
+}
+.content4 .p4{
+	font-size: 0.6rem;
+	line-height: 0.95rem;;
+	color:#FFFFFF;
+	margin-left: 0.5rem;
+}
+.content5{
+	width:16rem;
+}
+.content5 .erwerma{
+	width:16rem;
+}
+.content5 .erweima .m1{
+	height: 9.15rem;
+	width:6.6rem;
+	float:left;
+	margin-left: 0.55rem;
+	margin-right: 1.725rem;
+	margin-top: 0.65rem;
+}
+.content5 .erweima .m2{
+	height: 9.15rem;
+	width:6.6rem;
+	float:left;
+	margin-top: 0.65rem;	
+}
+.content5 .erweima .tu1, .tu2{
+	width:6.6rem;
+	height:6.6rem;	
+}
+.content5 .erweima h5{
+	font-size: 0.6rem;
+	text-align: center;
+	margin-top:0.6rem;
+}
+.content5 .piao{
+	position: fixed;
+    right: 2%;
+    bottom: 1%;
+    width: 2.5rem
+}
+.content5 .piao ul{
+	width:2.325rem;
+	height:8.65rem;
+}
+.content5 .piao li{
+	width:2.375rem;
+	height:2.375rem;
+	background-color: #0760E5;
+	font-size: 0.5rem;
+	color:#FFFFFF;
+	margin-bottom:0.1rem;
+}
+.content5 .piao  li .f1{
+	margin-left:0.2rem;
+}
+.content5 .piao  li span{
+	font-size:0.975rem;
+	margin:0.7rem;
+	line-height: 1.5rem;
+}
+.footer{
+	width:16rem;
+	height:4.25rem;
+	background-color: #313131;
+}
+.footer .zuihou{
+	padding-top:0.55rem;
+	margin-left:0.45rem;
+	font-size:0.5rem;
+	line-height: 1.1rem;
+	color: #FFFFFF;
+}
+.footer .zz, .zz1{
+	font-size: 0.5rem;
+	margin-left:0.45rem;
+	line-height: 1.1rem;
+	color:#FFFFFF;
+}
